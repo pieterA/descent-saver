@@ -1,9 +1,9 @@
 language: node_js
 node_js:
-- '6'
+ - '6'
 deploy:
   provider: heroku
   api_key:
-    master: dSOgUgZNGgqVVVRBZ9OLC1zfxd3lGavUjHLtwA86Qi+4p4ptyyMY4Fk0mJnb58Esg43mp1OKYkdNwIKpFftzp9vvsu5VHAtxmWxsJ+gBYn1V8lSgdSN/HP5geU2cTTqD4/yJJLODRdxQBzQqhDK72cugZeXdgtvwQPnLkcVo0jaInhstSL7WSUJXzFEmXQdGDYsNnFldLinQOunjog8DfbaH61rghRD5eoLDloTaKUZshFSgeAEiX5Di8kZca8KYJ+M1/LVUtkJDbkUX9TTtmYRTnCCCUirPd1nylHeR7ICovOOkDsyCwKK4pGcIVk68Hsjp75A0og/kdNpfiWDkU8064vzilVxRcoRQuKsLbtvm4tcaGql29ndZgHrDg9lwNyH4UusyLu/3ECu3xgsdRzCoXAXx4hoZ+7/cj+07NFhdkNe2t5FMlC+rVOEJmEhVGrnBSQowmCHTzzGbu3ZJPJgw9Su1n+qmNM9K016mMwbMXaFBZ2iiLT79B5e2QNP9Ye7YI4Sajs3eH+UMtV8nVzn8R7AS+cwiXiiZmAiIz7tlAEYhwFJZ3tXtK0AIq4NGN6YX9uen/p5pkngwcEQ6aGWCVmzbb/z4cCRcjF9RDC4OwfqoqGHKqxhdomglyxtE70u74su0DEmAL0O020A5/1nSRndWPDkgJylmWQAM9RI=
+    master: 501fd368-11a7-4cf4-add8-e6d2be285b5d
   app:
     master: descent-saver
